@@ -25,7 +25,7 @@ function getMusician(muse) {
         }
 
         else if(muse >= 4) {
-            console.log("large group");
+            console.log("this is a large group");
         }
 
         else {
@@ -61,7 +61,7 @@ function getMusician(musicians) {
         }
 
         else if(muse >= 4) {
-            console.log("large group");
+            console.log("this is a large group");
         }
 
         else {
